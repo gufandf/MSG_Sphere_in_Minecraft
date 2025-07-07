@@ -1,5 +1,3 @@
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114737333406460&bvid=BV1bBK3zmEQA&cid=30671243778&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
 拉斯维加斯，世界著名的赌城，在2023年新增了一个地标建筑——拉斯维加斯巨型球。距离遥远无法亲身前往，视频无味不如目见耳闻，一个想法浮现在了我的脑海中——我要在我的世界中制作一个巨型球。
 
 # 原理
