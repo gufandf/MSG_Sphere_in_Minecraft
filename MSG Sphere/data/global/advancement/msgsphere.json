@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "MSG Sphere",
+        "description": "MSG Sphere",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: 'gufandf'}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
